@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\oscar\Desktop\UNI SHIT\graficas 2\Plantilla\TerrenoSkyBillModGC2\x64\Debug\TerrenoSkyBill.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\oscar\Desktop\UNI SHIT\graficas 2\Plantilla\TerrenoSkyBillModGC2\x64\Debug\Billboard.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\oscar\Desktop\UNI SHIT\graficas 2\Plantilla\TerrenoSkyBillModGC2\x64\Debug\GUI.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\oscar\Desktop\UNI SHIT\graficas 2\Plantilla\TerrenoSkyBillModGC2\x64\Debug\Modelo.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\oscar\Desktop\UNI SHIT\graficas 2\Plantilla\TerrenoSkyBillModGC2\x64\Debug\Text.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\oscar\Desktop\UNI SHIT\graficas 2\Plantilla\TerrenoSkyBillModGC2\x64\Debug\Water.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
